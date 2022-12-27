@@ -1,10 +1,11 @@
 # Pytorch-Learning-Master
 
-
+## Description
 This repository is my notes(.ipynb files) for learning Pytorch. 
 
+## Reference Link
 Reference link is below:
-https://www.bilibili.com/video/BV1ce411K7XC?p=1&vd_source=7cca4a20f2401942703a8c8eff4d7492
+(https://www.bilibili.com/video/BV1ce411K7XC/)
 
 ## ToDO list
 - [x] Lab1-1 (Tensor basic)
