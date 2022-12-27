@@ -3,7 +3,7 @@
 
 This repository is my notes for learning Pytorch. 
 
-The link is below:
+Reference link is below:
 https://www.bilibili.com/video/BV1ce411K7XC?p=1&vd_source=7cca4a20f2401942703a8c8eff4d7492
 
 ## ToDO list
@@ -14,4 +14,5 @@ https://www.bilibili.com/video/BV1ce411K7XC?p=1&vd_source=7cca4a20f2401942703a8c
 - [x] Lab1-5 (Linear Layers)
 - [x] Lab1-6 (Normalization Layers)
 - [x] Lab1-7 (Containers)
-- [x] Lab2-1 (Datasets and DataLoaders)   
+- [x] Lab2-1 (Datasets and DataLoaders)
+- [x] Lab2-2 (Optimizer)
